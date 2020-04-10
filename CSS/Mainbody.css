@@ -23,21 +23,21 @@ font-family: sans-serif;
 float: left;
 }
 #attendence {
-width: 1250px;
+width: 1200px;
 height: 210px;
 background-color:  #FFFAF0;
 border:2px solid black;
 float: right;
 }
 #announcement {
-width: 946px;
+width: 900px;
 height: 230px;
 background-color: #FFFAF0;
 float: right;
 border:2px solid black;
 }
 #timetable {
-width: 1250px;
+width: 1200px;
 height: 210px;
 background-color: #FFF8DC;
 float: right;
