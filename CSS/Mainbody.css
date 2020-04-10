@@ -1,6 +1,6 @@
 #container {
-width: 800px;
-height: 860px;
+width: auto;
+height: auto;
 margin-left: auto;
 margin-right: auto;
 margin-top: 10px;
@@ -23,21 +23,21 @@ font-family: sans-serif;
 float: left;
 }
 #attendence {
-width: 1200px;
+width: 1250px;
 height: 210px;
 background-color:  #FFFAF0;
 border:2px solid black;
 float: right;
 }
 #announcement {
-width: 900px;
+width: 946px;
 height: 230px;
 background-color: #FFFAF0;
 float: right;
 border:2px solid black;
 }
 #timetable {
-width: 1200px;
+width: 1250px;
 height: 210px;
 background-color: #FFF8DC;
 float: right;
