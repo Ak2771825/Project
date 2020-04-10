@@ -1,8 +1,8 @@
 #container {
-width: auto;
+width: 1600;
 height: 860px;
-margin-left: 10px;
-margin-right: 10px;
+margin-left: auto;
+margin-right: auto;
 margin-top: 10px;
 
 }
@@ -15,8 +15,8 @@ background-repeat: no-repeat;
 background-size: 120px 120px;
 }
 #sidebar {
-width: 225px;
-height: 650px;
+width: 325px;
+height: 658px;
 background-color: white;
 border: 2px solid black;
 font-family: sans-serif;
