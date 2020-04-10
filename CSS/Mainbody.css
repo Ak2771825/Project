@@ -1,5 +1,5 @@
 #container {
-width: 1800px;
+width: auto;
 height: 860px;
 margin-left: 10px;
 margin-right: 10px;
@@ -15,7 +15,7 @@ background-repeat: no-repeat;
 background-size: 120px 120px;
 }
 #sidebar {
-width: 325px;
+width: 250px;
 height: 658px;
 background-color: white;
 float: left;
